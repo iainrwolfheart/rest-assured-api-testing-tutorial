@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "firstName": "Dr.",
+      "lastName": "Dre",
+      "subjectId": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Ice",
+      "lastName": "Cube",
+      "subjectId": 2,
+      "id": 2
+    },
+    {
+      "firstName": "Eazy",
+      "lastName": "E",
+      "subjectId": 2,
+      "id": 3
+    },
+    {
+      "firstName": "D.O.",
+      "lastName": "C.",
+      "subjectId": "1",
+      "id": 4
+    },
+    {
+      "firstName": "D.O.",
+      "lastName": "C.",
+      "subjectId": "1",
+      "id": 5
+    },
+    {
+      "firstName": "D.O.",
+      "lastName": "C.",
+      "subjectId": "1",
+      "id": 6
+    },
+    {
+      "firstName": "Marshall",
+      "lastName": "Mathers",
+      "subjectId": 1,
+      "id": 7
+    },
+    {
+      "firstName": "Snoop",
+      "lastName": "Dogg",
+      "subjectId": 2,
+      "id": 8
+    },
+    {
+      "firstName": "Marshall",
+      "lastName": "Mathers",
+      "subjectId": 1,
+      "id": 9
+    },
+    {
+      "firstName": "Snoop",
+      "lastName": "Dogg",
+      "subjectId": 2,
+      "id": 10
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Automation"
+    },
+    {
+      "id": 2,
+      "name": "DevOps"
+    }
+  ]
+}
